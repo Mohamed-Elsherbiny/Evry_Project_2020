@@ -133,4 +133,4 @@ Finally, after testing the algorithm, this strategy accomplished the mission suc
 following screenshot is one of the trails. As you can see, the eight flags position were estimated
 in less than 2.19 sec with high accuracy. <br>
 Check the video
-[![Watch the video](https://img.youtube.com/vi/x3SSda_I8oc/hqdefault.jpg)](https://youtu.be/x3SSda_I8oc)
+[![Watch the video](https://img.youtube.com/vi/oNLR5qCUIAU/hqdefault.jpg)](https://youtu.be/oNLR5qCUIAU)
